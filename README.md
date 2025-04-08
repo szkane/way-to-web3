@@ -22,11 +22,11 @@
 
 - **1 学习线路**
 
-  - [1.1 进入 WEB3 圈个人电脑和手机需要准备的软件和工具](1)
-  - [1.2 创建自己的 WEB3 AI 智能体 解答的各种专业术语及逻辑关系](2)
-  - [1.3 关注、订阅、加入、收藏个人兴趣方向 WEB3 的大 V、资讯网站](3)
-  - [1.4 注册主流交易所，了解主流币、公链和各种 WEB3 项目](4)
-  - [1.5 学习理解主流币的交易流程和交易方式](5)
+  - [1.1 进入 WEB3 圈个人电脑和手机需要准备的软件和工具](knowledge/1.1-web3-essential-software-tools.md)
+  - [1.2 创建自己的 WEB3 AI 智能体,构建自己专属的知识库](knowledge/1.2-build-your-web3-ai-agent-terms-logic.md)
+  - [1.3 关注、订阅、加入、收藏个人兴趣方向 WEB3 的大 V、资讯网站](knowledge/1.3-follow-web3-influencers-resources.md)
+  - [1.4 注册主流交易所，了解主流币、公链和各种 WEB3 项目](knowledge/1.4-explore-web3-crypto-cex-dex-project.md)
+  - [1.5 学习理解主流币的交易流程和交易方式](knowledge/1.5-explore-crypto-trading.md)
 
 - **2 撸空投方向**
 
